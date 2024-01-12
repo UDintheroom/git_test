@@ -10,3 +10,4 @@
 - 8차 수정 : 최유리 modal error 수정 (branch 추가)
 - 9차 수정 : 최유리 btn error 수정
 - 10차 수정 : ㅊㅇㄹ feature1 기능 추가
+- 11차 수정 : ㅊㅇㄹ feature2 기능 추가
